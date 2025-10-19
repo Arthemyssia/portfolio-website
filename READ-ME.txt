@@ -1,0 +1,37 @@
+# 🌟 My Portfolio Website
+
+A personal portfolio website showcasing my skills, projects, and experience. Built with modern web technologies and a clean, professional design.
+
+## 🧠 About the Project
+This portfolio website is designed to highlight my personal and professional work. It includes:
+- Interactive project showcase
+- Professional summary and experience
+- Skills and technologies I work with
+- Contact form and social links
+
+
+## 🛠️ Built With
+- **HTML5** – Structure and content
+- **CSS3** – Styling and layout
+- **JavaScript (ES6+)** – Interactivity and dynamic content
+- **Bootstrap 5** – Responsive design and components
+- **Google Fonts** – Custom typography
+
+## 🖌️ Features
+- ✅ Fully responsive design
+- ✅ Interactive project showcase
+- ✅ Smooth animations and transitions
+- ✅ Downloadable CV
+- ✅ Contact form
+
+
+## 🧰 Installation / Running Locally
+To run this website locally:
+
+# Clone the repository
+
+# Navigate into the project folder
+
+# Open index.html in your browser
+
+Raid3n.contact@gmail.com
